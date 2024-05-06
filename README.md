@@ -27,8 +27,11 @@ Desafio - Processando e Transformando Dados com PBI
 11.	Realize a junção dos colaboradores e respectivos nomes dos gerentes . Isso pode ser feito com consulta SQL ou pela mescla de tabelas com Power BI. Caso utilize SQL, especifique no README a query utilizada no processo.
 12.	Mescle as colunas de Nome e Sobrenome para ter apenas uma coluna definindo os nomes dos colaboradores
 13.	Mescle os nomes de departamentos e localização. Isso fará que cada combinação departamento-local seja único. Isso irá auxiliar na criação do modelo estrela em um módulo futuro.
-14.	Explique por que, neste caso supracitado, podemos apenas utilizar o mesclar e não o atribuir.
-15.	15.	Agrupe os dados a fim de saber quantos colaboradores existem por gerente
+14.	Explique por que, neste caso supracitado, podemos apenas utilizar o mesclar e não o atribuir.<br>
+![image](https://github.com/manuelfbfilho/Desafio-Dio---Processamento-de-Dados-Simplificado-com-Power-BI/assets/151965418/efaf747f-4f78-4115-b8fe-ac949be4cd58) ![image](https://github.com/manuelfbfilho/Desafio-Dio---Processamento-de-Dados-Simplificado-com-Power-BI/assets/151965418/d274ab99-07a1-49e4-ba27-6361c563b398)
+
+
+15.	Agrupe os dados a fim de saber quantos colaboradores existem por gerente
 16.	Elimine as colunas desnecessárias, que não serão usadas no relatório, de cada tabela
 
 
